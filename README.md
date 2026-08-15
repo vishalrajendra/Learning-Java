@@ -55,7 +55,7 @@ I enjoy working across **web development, backend development, cloud technologie
 
 ---
 
-## 🚀 What I Like Building
+## 🚀 Building
 
 * 🌐 Web Applications
 * ⚙️ Backend APIs
